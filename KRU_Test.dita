@@ -17,6 +17,9 @@
             <step>
                 <cmd>Run</cmd>
             </step>
+            <step>
+                <cmd>Close down</cmd>
+            </step>
         </steps>
     </taskbody>
 </task>
