@@ -18,7 +18,8 @@
                 <cmd>Run</cmd>
             </step>
             <step>
-                <cmd>Close down</cmd>
+                <cmd><?oxy_comment_start author="Karsten Krumrück" timestamp="20230412T105828+0200" comment="Sollte näher erläutert werden"?>Close
+                    down<?oxy_comment_end?></cmd>
             </step>
         </steps>
     </taskbody>
